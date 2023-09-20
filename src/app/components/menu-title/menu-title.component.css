@@ -1,0 +1,17 @@
+.menu_title_container {
+  color: #fff;
+}
+
+.menu_title_container > hr {
+  margin: 20px 0;
+}
+
+.menu_title_container > h1 {
+  margin: 15px 0px;
+  font-size: 150px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+
+

@@ -1,0 +1,25 @@
+.small_card_container {
+  height: 160px;
+  padding: 5px 5px 5px 15px;
+}
+
+.small_card_container:hover {
+  background-color: rgb(25, 25, 25);
+}
+
+.small_card_container a {
+  display: flex;
+}
+
+.small_card_photo > img {
+  width: 250px;
+  height: auto;
+}
+
+.small_card_title {
+  margin-left: 10px;
+}
+
+.small_card_title > h2 {
+  font-size: 16px;
+}

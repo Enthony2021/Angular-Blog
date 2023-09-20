@@ -1,0 +1,26 @@
+.big_card_container {
+  /* border: solid #fff 2px; */
+  width: 50vw;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.big_card_container:hover {
+  background-color: rgb(25, 25, 25);
+}
+
+.big_card_photo > img {
+  width: 100%;
+}
+
+.big_card_title > h2 {
+  margin-top: 10px;
+}
+
+.big_card_description > p {
+  margin-top: 10px;
+  color: rgb(110, 110, 110);
+}
