@@ -1,3 +1,10 @@
+header {
+  /* border: 1px solid #fff; */
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
 .articles_container {
   display: flex;
 }
