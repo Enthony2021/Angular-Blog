@@ -1,6 +1,8 @@
 .small_card_container {
+  /* border: 1px solid #fff; */
   height: 160px;
   padding: 5px 5px 5px 15px;
+  margin-bottom: 5px;
 }
 
 .small_card_container:hover {
@@ -21,5 +23,5 @@
 }
 
 .small_card_title > h2 {
-  font-size: 16px;
+  font-size: 20px;
 }

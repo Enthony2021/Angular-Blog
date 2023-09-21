@@ -9,7 +9,11 @@ export class SmallCardComponent implements OnInit {
   @Input()
   smallPhotoCover: string = '';
   @Input()
+  smallCardTitle: string = '';
+  @Input()
   smallCardDescription: string = '';
+  @Input()
+  id: string = '';
 
   constructor() {}
 
