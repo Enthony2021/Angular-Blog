@@ -18,10 +18,10 @@
   height: auto;
 }
 
-.small_card_title {
+.small_card_description {
   margin-left: 10px;
 }
 
-.small_card_title > h2 {
-  font-size: 20px;
+.small_card_description > h2 {
+  font-size: 16px;
 }
